@@ -7,8 +7,14 @@
         "chrome-devtools-mcp@latest",
         "--browserUrl=http://127.0.0.1:9222"
       ],
-      "enabled": true,
-      "exposure": "direct"
+      "enabled": true
+    },
+    "integrtr-sandbox-mcp": {
+      "url": "https://platform-sandbox-mcp.integrtr.com/mcp"
+    },
+    "integrtr-local-mcp": {
+      "url": "http://localhost:2120/mcp",
+      "enabled": true
     }
   }
 }

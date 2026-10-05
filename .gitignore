@@ -8,6 +8,7 @@
 /sessions/
 /extensions/herdr-agent-state.ts
 /auth.json
+/mcp-auth.json
 /trust.json
 /models-store.json
 /crashes.json
