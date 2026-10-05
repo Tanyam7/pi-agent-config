@@ -1,0 +1,7 @@
+{
+  "orchestratorModel": {
+    "provider": "openai-codex",
+    "modelId": "gpt-5.6-terra",
+    "thinkingLevel": "xhigh"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "thinkingLevel": "inherit",
+  "defaultPlanTools": [
+    "read",
+    "bash",
+    "powershell",
+    "grep",
+    "find",
+    "ls",
+    "web_search",
+    "subagent",
+    "subagents_list"
+  ]
+}

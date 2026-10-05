@@ -1,0 +1,33 @@
+{
+  "lastChangelogVersion": "1.0.2",
+  "theme": "dark",
+  "tuiMode": "fullscreen",
+  "defaultProvider": "openai-codex",
+  "defaultModel": "gpt-6-luna",
+  "defaultThinkingLevel": "xhigh",
+  "packages": [
+    "npm:@narumitw/pi-usage",
+    "npm:pi-web-search"
+  ],
+  "observational-memory": {
+    "model": {
+      "provider": "openai-codex",
+      "id": "gpt-5.6-luna",
+      "thinking": "low"
+    }
+  },
+  "quietStartup": true,
+  "enableInstallTelemetry": true,
+  "defaultProjectTrust": "always",
+  "fullscreenExitOutput": "resume-hint",
+  "fullscreenScrollbar": "auto",
+  "images": {
+    "blockImages": false
+  },
+  "enabledModels": [
+    "openai-codex/gpt-6-luna",
+    "openai-codex/gpt-5.6-terra",
+    "openai-codex/gpt-6.1-sol",
+    "openai-codex/gpt-6-astra"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "separator": " ",
+  "lines": [
+    {
+      "left": [
+        "pwd",
+        "branch",
+        "sessionName"
+      ],
+      "right": [
+        "status:usage",
+        "cacheHitRate",
+        "cost",
+        "context"
+      ]
+    },
+    {
+      "left": [
+        "extensionStatuses"
+      ]
+    }
+  ]
+}
