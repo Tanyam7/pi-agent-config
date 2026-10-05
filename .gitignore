@@ -6,6 +6,7 @@
 
 # Sessions, machine-specific trust, caches and logs
 /sessions/
+/extensions/herdr-agent-state.ts
 /auth.json
 /trust.json
 /models-store.json
