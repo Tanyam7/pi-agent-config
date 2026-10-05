@@ -5,6 +5,9 @@
   "defaultProvider": "openai-codex",
   "defaultModel": "gpt-6-luna",
   "defaultThinkingLevel": "xhigh",
+  "defaultTools": [
+    "+codemode"
+  ],
   "packages": [
     "npm:@narumitw/pi-usage",
     "npm:pi-web-search"
@@ -23,11 +26,5 @@
   "fullscreenScrollbar": "auto",
   "images": {
     "blockImages": false
-  },
-  "enabledModels": [
-    "openai-codex/gpt-6-luna",
-    "openai-codex/gpt-5.6-terra",
-    "openai-codex/gpt-6.1-sol",
-    "openai-codex/gpt-6-astra"
-  ]
+  }
 }
